@@ -1,6 +1,6 @@
 # Mohamed 👋
 
-Serial founder · Technical builder · 15+ years shipping software  
+CTO & Co-founder @ GoTogether · Technical builder · 15+ years shipping software  
 **Islamic travel tech · AI agent infrastructure · Developer tooling**  
 📍 Alexandria, Egypt
 
@@ -13,11 +13,11 @@ Serial founder · Technical builder · 15+ years shipping software
 
 ## Currently Building
 
-🕋 **[GoTogether](https://go-together.co)** — B2B2C Islamic travel marketplace powering Umrah-focused hotel distribution (120+ hotels, 10K rooms, 30+ partners).
+🕋 **[GoTogether](https://go-together.co)** — Islamic travel marketplace platform.
 
-🤖 **[ClawFlint](https://clawflint.com)** — Control plane for deploying AI agents to messaging channels.
+🏨 **[Allotment](https://allotment.sa)** — Umrah/Hajj hotel allotment and booking platform.
 
-⚙️ **Crewline** — Hosted AI orchestration SaaS with blueprint-based onboarding; currently exploring a pivot toward autonomous AI CMO workflows.
+🤖 **[ClawFlint](https://clawflint.com)** — AI agent deployment control plane for messaging channels.
 
 ---
 
@@ -73,4 +73,4 @@ Every product starts with a comprehensive PRD in Markdown before a single line o
 
 ---
 
-🌐 [moelabs.dev](https://moelabs.dev) · [go-together.co](https://go-together.co) · [clawflint.com](https://clawflint.com) · [mojocoffee.ai](https://www.mojocoffee.ai)
+🌐 [moelabs.dev](https://moelabs.dev) · [go-together.co](https://go-together.co) · [allotment.sa](https://allotment.sa) · [clawflint.com](https://clawflint.com) · [mojocoffee.ai](https://www.mojocoffee.ai)
