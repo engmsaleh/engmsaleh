@@ -19,6 +19,8 @@ CTO & Co-founder @ GoTogether · Technical builder · 15+ years shipping softwar
 
 🤖 **[ClawFlint](https://clawflint.com)** — AI agent deployment control plane for messaging channels.
 
+🐾 **[deploy-claw](https://github.com/engmsaleh/deploy-claw)** *(open source)* — Managed OpenClaw deployment platform (Kubernetes edition) — deploy AI agents on Telegram, Discord, and WhatsApp in 30 seconds.
+
 ---
 
 ## Selected Ventures
