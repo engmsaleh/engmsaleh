@@ -21,6 +21,16 @@ CTO & Co-founder @ GoTogether · Technical builder · 15+ years shipping softwar
 
 🐾 **[deploy-claw](https://github.com/engmsaleh/deploy-claw)** *(open source)* — Managed OpenClaw deployment platform (Kubernetes edition) — deploy AI agents on Telegram, Discord, and WhatsApp in 30 seconds.
 
+🗣️ **[Skilly](https://tryskilly.app)** — Open-source voice-and-pointer guidance for onboarding, support, and learning inside websites and apps.
+
+📡 **[Signal Board](https://trysignalboard.com)** — Finds high-intent conversations across Reddit, Hacker News, and X, then drafts human-approved replies and tracks results.
+
+🇸🇦 **Kalima** (كَلِمَة) — Arabic learning for non-Arabic-speaking Muslims.
+
+⚙️ **[PartProof](https://partproof.com)** — Local SOLIDWORKS automation that turns engineering inputs into editable CAD features with traceable validation evidence.
+
+🔀 **[codex-patchbay](https://github.com/engmsaleh/codex-patchbay)** *(open source)* — Codex plugin for delegating bounded implementation work to lower-cost coding models, with deterministic verification before patches are applied.
+
 ---
 
 ## Selected Ventures
@@ -29,7 +39,6 @@ CTO & Co-founder @ GoTogether · Technical builder · 15+ years shipping softwar
 - 📈 **AdHelm** — Autonomous SMB marketing platform with multi-agent orchestration.
 - 💻 **Codara** — CLI coding agent focused on Claude Code compatibility + open-source model support.
 - 🏗️ **SkillForge** — AI engineering agents for AutoCAD Plant 3D workflows.
-- 🇸🇦 **Kalima** (كَلِمَة) — Arabic learning for non-Arabic-speaking Muslims.
 - 📱 **AppListing** — App Store screenshot generator with clone-from-URL.
 - ☕ **[Mojo Coffee AI](https://www.mojocoffee.ai)** — AI-personalized coffee recommendations and kiosk ordering.
 
