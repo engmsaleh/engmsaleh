@@ -1,6 +1,6 @@
 # Mohamed 👋
 
-CTO & Co-founder @ GoTogether · Technical builder · 15+ years shipping software  
+Technical founder · Product & engineering builder · 15+ years shipping software<br>
 **Islamic travel tech · AI agent infrastructure · Developer tooling**  
 📍 Alexandria, Egypt
 
@@ -13,19 +13,11 @@ CTO & Co-founder @ GoTogether · Technical builder · 15+ years shipping softwar
 
 ## Currently Building
 
-🕋 **[GoTogether](https://go-together.co)** — Islamic travel marketplace platform.
-
-🏨 **[Allotment](https://allotment.sa)** — Umrah/Hajj hotel allotment and booking platform.
-
-🤖 **[ClawFlint](https://clawflint.com)** — AI agent deployment control plane for messaging channels.
-
-🐾 **[deploy-claw](https://github.com/engmsaleh/deploy-claw)** *(open source)* — Managed OpenClaw deployment platform (Kubernetes edition) — deploy AI agents on Telegram, Discord, and WhatsApp in 30 seconds.
-
 🗣️ **[Skilly](https://tryskilly.app)** — Open-source voice-and-pointer guidance for onboarding, support, and learning inside websites and apps.
 
 📡 **[Signal Board](https://trysignalboard.com)** — Finds high-intent conversations across Reddit, Hacker News, and X, then drafts human-approved replies and tracks results.
 
-🇸🇦 **Kalima** (كَلِمَة) — Arabic learning for non-Arabic-speaking Muslims.
+🇸🇦 **[Kalima](https://trykalima.app)** (كَلِمَة) — AI recitation coach helping Muslims learn Quranic Arabic and practice prayer and Quran word by word.
 
 ⚙️ **[PartProof](https://partproof.com)** — Local SOLIDWORKS automation that turns engineering inputs into editable CAD features with traceable validation evidence.
 
@@ -50,6 +42,13 @@ CTO & Co-founder @ GoTogether · Technical builder · 15+ years shipping softwar
 **AgentLine** — Agent identity infrastructure (phone-as-a-service)
 
 </details>
+
+### Past Ventures
+
+- **GoTogether** — Islamic travel marketplace platform
+- **Allotment** — Umrah/Hajj hotel allotment and booking platform
+- **ClawFlint** — AI agent deployment control plane for messaging channels
+- **[deploy-claw](https://github.com/engmsaleh/deploy-claw)** *(open source)* — Managed OpenClaw deployment platform for messaging-channel AI agents
 
 ---
 
@@ -84,4 +83,4 @@ Every product starts with a comprehensive PRD in Markdown before a single line o
 
 ---
 
-🌐 [moelabs.dev](https://moelabs.dev) · [go-together.co](https://go-together.co) · [allotment.sa](https://allotment.sa) · [clawflint.com](https://clawflint.com) · [mojocoffee.ai](https://www.mojocoffee.ai)
+🌐 [moelabs.dev](https://moelabs.dev) · [tryskilly.app](https://tryskilly.app) · [trysignalboard.com](https://trysignalboard.com) · [trykalima.app](https://trykalima.app) · [partproof.com](https://partproof.com)
